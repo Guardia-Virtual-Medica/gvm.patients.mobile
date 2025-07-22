@@ -37,3 +37,5 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+# Add .env to gitignore to keep environment-specific configurations local
+.env
